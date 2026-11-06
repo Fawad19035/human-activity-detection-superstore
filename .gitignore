@@ -1,0 +1,7 @@
+venv/
+.env
+*.pyc
+__pycache__/
+processed_videos/*
+!processed_videos/.gitkeep
+.DS_Store
